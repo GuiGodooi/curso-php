@@ -53,6 +53,11 @@ body{
 
 .rodape{
     grid-area: rodape;
-    color: #fff;
-
+    background-color: #fff;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 1.2rem;
+    padding: 0px 20px;
+    color: #444;
 }
