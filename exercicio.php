@@ -25,10 +25,10 @@
             <?php
                 //include($_GET['dir'] . "/teste.php");
                 //ou
-                include("{$_GET['dir']}/{$_GET['file']}.php");
+                //include("{$_GET['dir']}/{$_GET['file']}.php");
                 //Assim pegamos pelos pâmetros da requisição (pasta e diretorio do arquivo)
                 //Tambem conseguimos trazer pelo caminho absoluto
-                //include(__DIR__ . "/{$_GET['dir']}/{$_GET['file']}.php");
+                include(__DIR__ . "/{$_GET['dir']}/{$_GET['file']}.php");
             ?>
         </div>
     </main>
