@@ -93,7 +93,7 @@
     </main>
 
     <footer class="rodape">
-        Guilherme ₢ 2023
+        Guilherme ₢ <?= date('Y'); ?>
     </footer>
 </body>
 </html>
