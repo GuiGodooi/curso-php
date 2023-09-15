@@ -9,7 +9,7 @@
 <body>
     <header class="cabecalho">
         <h1>Curso PHP</h1>
-        <H2>Índices dos Exercícios</H2>
+        <h2>Índices dos Exercícios</h2>
     </header>
 
     <main class="principal">
@@ -18,7 +18,7 @@
                 <div class="modulo verde">
                     <h3>Módulo 01</h3>
                     <ul>
-                        <li><a href="#">Exerxício A</a></li>
+                        <li><a href="exercicio.php">Exerxício A</a></li>
                         <li><a href="#">Exerxício B</a></li>
                         <li><a href="#">Exerxício C</a></li>
                     </ul>
