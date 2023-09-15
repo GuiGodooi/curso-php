@@ -15,7 +15,7 @@ echo "Estou no PHP";
     <p>Comentário HTML 1</p> 
     <p>Comentário HTML 2</p> 
     <p>Comentário HTML 3</p> 
-    -->
+-->
 <?php
 /*
     Linha 1 do comentário
