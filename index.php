@@ -109,8 +109,8 @@
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=variaveis&file=interpolacao">
-                                Interpolação                                
+                            <a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">
+                                Variáveis                                
                             </a>
                         </li>
                     </ul>
