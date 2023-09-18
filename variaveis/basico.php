@@ -20,3 +20,16 @@ echo '<br>' . $variavel;
 
 $variavel = "Agora sou uma string!";
 echo '<br>' . $variavel;
+
+// Nomes de Variável
+$var = 'valida';
+$var2 = 'valida';
+$VAR3 = 'valida';
+$_var_4 = 'valida';
+$vâr5 = 'valida'; //Não recomendado
+// $6var = 'invalida';
+// $%var7 = 'invalida';
+// $var8% = 'invalida';
+
+echo '<br>' . $_SERVER;
+var_dump($_SERVER["HTTP_HOST"]);
