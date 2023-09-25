@@ -91,7 +91,7 @@
                     </ul>
                 </div>
                 <div class="modulo azul">
-                    <h3>Básico</h3>
+                    <h3>Variáveis</h3>
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=basico">
