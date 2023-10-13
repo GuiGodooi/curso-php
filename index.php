@@ -33,6 +33,11 @@
                                 Desafio Palindromo
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=args_variaveis">
+                                Args e Variáveis
+                            </a>
+                        </li>
                     </ul>
             </div>
                 <div class="modulo verde-escuro">
