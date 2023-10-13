@@ -23,6 +23,12 @@
                                 Função & Escopo
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=args_retorno">
+                                Args & Retornos
+                            </a>
+                        </li>
+                    </ul>
             </div>
                 <div class="modulo verde-escuro">
                     <h3>6. Repetições</h3>
