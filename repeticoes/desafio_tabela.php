@@ -29,6 +29,21 @@ foreach($matriz as $linha){
     ?>
 </table>
 
+<table>
+    <!--Fazendo verificação de linhas para que aconteça o efeito
+        de uma linha ficar de uma cor e a proxima de outra -->
+    <?php
+    foreach($matriz as $index => $linha){
+        $style = $index % 2 === 0 ? 'background-color: lightblue' : '';
+        echo "<tr style='{$style}'>";
+        foreach($linha as $valor){
+            echo "<td>$valor</td>";
+        }
+        echo '</tr>';
+    }
+    ?>
+</table>
+
 <style>
     table{
         border: 1px solid #444;
