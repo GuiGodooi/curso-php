@@ -48,6 +48,16 @@
                                 Usando Tipos
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=funcao_anonima">
+                                Funções Anônimas
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=closure_callable">
+                                Closure & Callable
+                            </a>
+                        </li>
                     </ul>
             </div>
                 <div class="modulo verde-escuro">
