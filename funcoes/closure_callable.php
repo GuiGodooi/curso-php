@@ -15,3 +15,4 @@ echo (is_callable($soma1) ? 'Sim' : 'Não') . '<br>';
 
 echo soma2(2, 3) . ' ';
 //echo (is_callable(soma2) ? 'Sim' : 'Não') . '<br>';
+
